@@ -1,0 +1,41 @@
+_repo: Betty-s-Battlesan-Everyday-Story_34805
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Booth, Bramwell, Mrs.
+    aliases:
+    - Booth, Florence Eleanor
+    - Soper, Florence Eleanor
+    birthdate: 1861
+    deathdate: 1957
+    gutenberg_agent_id: '37246'
+    url: http://www.gutenberg.org/2009/agents/37246
+  illustrator:
+    agent_name: Bradley, Gertrude M.
+    gutenberg_agent_id: '37245'
+    url: http://www.gutenberg.org/2009/agents/37245
+covers:
+- cover_type: archival
+  image_path: 34805-h/images/icover.jpg
+creator:
+  author:
+    agent_name: S. L. M.
+    gutenberg_agent_id: '37242'
+    url: http://www.gutenberg.org/2009/agents/37242
+description: ''
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Salvation Army -- Juvenile fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: 'Betty''s Battles: An Everyday Story'
+url: http://www.gutenberg.org/ebooks/34805
